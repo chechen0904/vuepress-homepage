@@ -4,7 +4,7 @@ pageClass: research-page
 
 # Research
 
-Here are some experience of mine.
+Here are some research experience of mine.
 
 ## Research Assistant
 
