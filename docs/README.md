@@ -13,7 +13,7 @@ socials:
     icon: "/icons/linkedin-mono.svg"
     link: https://www.linkedin.com/in/che-chen-62bb4b124/
 
-bio: Incoming PhD student at IESE Business School
+bio: Incoming Finance PhD student at IESE Business School
 email: chen_che@student.ceu.edu
 ---
 
@@ -102,6 +102,14 @@ Qingdao, China
   OUC Student Research and Development Program
 
 </ProjectCard>
+
+## Additional information
+
+- **Language** <br/>
+**Chinese** (Native) | **English** (Fluent) | **Hokkien** (Native)
+
+- **Programming skill** <br/>
+**Proficient:** Python, Stata | **Intermediate:** R, Eviews | **Basic:** LaTeX, Matlab, Julia
 
 
 <!-- Custom style for this page -->
