@@ -67,7 +67,7 @@ Qingdao, China
 
 [→ Full list](/research/)
 
-<ProjectCard hideBorder=true>
+<ProjectCard>
 
   **Religion and Covid-19**
 
@@ -79,7 +79,7 @@ Qingdao, China
 
 </ProjectCard>
 
-<ProjectCard hideBorder=true>
+<ProjectCard>
 
   **The effect of private tutoring on academic performance of junior high school students**
 
@@ -91,7 +91,7 @@ Qingdao, China
 
 </ProjectCard>
 
-<ProjectCard hideBorder=true>
+<ProjectCard>
 
   **Development of Folk Custom Tourism: A Study on Qingdao Han Folk Village**
 
