@@ -35,24 +35,24 @@ I am currently a second year MA Econ student at Central European University. Bef
 ## Education & Experiences
 
 - **IESE Business School, University of Navarra** <br/>
-- 2022 - 2027
-- PhD in Finance (MRM + PhD)
-- Barcelona, Spain
+2022 - 2027
+PhD in Finance (MRM + PhD)
+Barcelona, Spain
 
 - **Central European University** <br/>
-- 2020 - 2022
-- MA in Economics
-- Vienna, Austria
+2020 - 2022
+MA in Economics
+Vienna, Austria
 
 - **Nanyang Technological University** <br/>
-- 2017 - 2019
-- MSc in Managerial Economics
-- Singapore, Singapore
+2017 - 2019
+MSc in Managerial Economics
+Singapore, Singapore
 
 - **Ocean University of China** <br/>
-- 2013 - 2017
-- BA in Accounting
-- Qingdao, China
+2013 - 2017
+BA in Accounting
+Qingdao, China
 
 ## Awards
 
@@ -102,11 +102,6 @@ I am currently a second year MA Econ student at Central European University. Bef
   OUC Student Research and Development Program
 
 </ProjectCard>
-
-
-## Contact Me
-
-- **My email:** chen_che@student.ceu.edu
 
 
 <!-- Custom style for this page -->
