@@ -1,5 +1,5 @@
 module.exports = {
-  title: "Harry Potter",
+  title: "Che Chen",
   description: "The description of the site.",
   head: [["link", { rel: "icon", href: `/logo.png` }]],
   base: "/",
@@ -9,13 +9,12 @@ module.exports = {
     search: false,
     nav: [
       { text: "Home", link: "/" },
-      { text: "About", link: "/about/" },
-      { text: "Projects", link: "/projects/" },
-      { text: "Guide", link: "/guide/" },
-      { text: "GitHub", link: "https://github.com/mtobeiyf/vuepress-homepage" }
+      { text: "Research", link: "/research/" },
+      { text: "CV", link: "/cv/" },
+      { text: "GitHub", link: "https://github.com/chechen0904" }
     ],
     sidebar: {
-      '/guide/': genSidebarConfig('Guide')
+      '/cv/': genSidebarConfig('CV')
     },
     lastUpdated: 'Last Updated'
   },
@@ -36,9 +35,7 @@ function genSidebarConfig (title) {
       collapsable: false,
       children: [
         '',
-        'getting-started',
-        'customize',
-        'advanced',
+        'Music',
       ]
     }
   ]

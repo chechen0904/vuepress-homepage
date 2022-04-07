@@ -2,79 +2,111 @@
 pageClass: home-page
 # some data for the components
 
-name: Harry Potter
-profile: /profile.jpg
+name: Che Chen
+profile: /Che_new.JPG
 
 socials:
   - title: github
     icon: "/icons/github.svg"
-    link: https://github.com/mtobeiyf
+    link: https://github.com/chechen0904
   - title: linkedin
     icon: "/icons/linkedin-mono.svg"
-    link: https://www.linkedin.com
-  - title: instagram
-    icon: "/icons/instagram-mono.svg"
-    link: https://www.instagram.com
+    link: https://www.linkedin.com/in/che-chen-62bb4b124/
 
-cv: https://en.wikipedia.org/wiki/Harry_Potter
-bio: Student at Hogwarts School
-email: harry (at) hogwarts (dot) edu
+bio: Incoming PhD student at IESE Business School
+email: chen_che@student.ceu.edu
 ---
 
 <ProfileSection :frontmatter="$page.frontmatter" />
 
 ## About Me
 
-I attended [Hogwarts School of Witchcraft and Wizardry](https://en.wikipedia.org/wiki/Hogwarts) to study witchcraft, supervised by **Dumbledore** and other professors. 
-
-I'm trying my best to battle with Lord Voldemort, the evil Wizard that we all fear. My research area includes Defence Against the Dark Arts and other magic. :dizzy:
+I am currently a second year MA Econ student at Central European University. Before that, I have studied at Nanyang Technological University and Ocean University of China. I expect to graduate from CEU in June 2022 and will start my Ph.D. study at IESE Business School in September this year. 
 
 
-## News
+## Research Interests
 
-- [Sept 1991] Attended Hogwarts
-- [July 1980] Born in Godric's Hollow, West Country, England, Great Britain
+- Corporate Finance
+- Mergers & Acquisitions
+- Applied Machine Learning
+- Applied Natural Language Processing
 
 
 ## Education & Experiences
 
-- **Hogwarts School of Witchcraft and Wizardry** <br/>
-Sept 1991 - 1997
+- **IESE Business School, University of Navarra** <br/>
+2022 - 2027
+PhD in Finance (MRM + PhD)
+Barcelona, Spain
+
+- **Central European University** <br/>
+2020 - 2022
+MA in Economics
+Vienna, Austria
+
+- **Nanyang Technological University** <br/>
+2017 - 2019
+MSc in Managerial Economics
+Singapore, Singapore
+
+- **Ocean University of China** <br/>
+2013 - 2017
+BA in Accounting
+Qingdao, China
+
+## Awards
+
+- **IESE Full Scholarship** <br/>
+2022 - 2027
+
+- **CEU Master Fellowship** <br/>
+2020 - 2022
+
+## Research
 
 
-## Projects
+[→ Full list](/research/)
 
+<ProjectCard hideBorder=true>
 
-[→ Full list](/projects/)
+  **Religion and Covid-19**
 
-<ProjectCard image="/projects/1.png" hideBorder=true>
+  Jun. 2021 – Sept. 2021
 
-  **The Making of Harry Potter's Wand**
+  Research Assistant
 
-  Harry P., Hermione G., *et al*
-  
-  Harry's wand was broken in 1997, but was repaired by him after the 1998 Battle of Hogwarts. Usually the repair of a wand is impossible, but with the use of the Elder Wand it was achievable.
-  
-  [[PDF](https://www.google.com)] [[arXiv](https://arxiv.org)]
+  Supervisor: Dr. Girish Bahal
 
 </ProjectCard>
 
 <ProjectCard hideBorder=true>
 
-  **Harry Potter and the Deathly Hallows**
-  
-  In the epilogue of Deathly Hallows, which is set 19 years after Voldemort's death, Harry and Ginny are a couple and have three children: James Sirius Potter, who has already been at Hogwarts for at least one year, Albus Severus Potter, who is starting his first year there, and Lily Luna Potter, who is two years away from her first year at the school.
+  **The effect of private tutoring on academic performance of junior high school students**
 
-  [[Link](https://www.google.com)]
+  Apr. 2021 - Jun. 2021
+
+  Term paper
+  
+  Course Instructor: Dr. Sergey Lychagin
+
+</ProjectCard>
+
+<ProjectCard hideBorder=true>
+
+  **Development of Folk Custom Tourism: A Study on Qingdao Han Folk Village**
+
+  Jun. 2014 – Jun. 2015
+
+  Core Member
+  
+  OUC Student Research and Development Program
 
 </ProjectCard>
 
 
-## Awards & Honors
+### Contact Me
 
-### Contests
-
-- First place in **The Hogwarts House Cup**
+- **My email:** chen_che@student.ceu.edu
 
 
 <!-- Custom style for this page -->
