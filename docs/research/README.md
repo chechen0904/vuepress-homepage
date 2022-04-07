@@ -14,7 +14,7 @@ Here are some experience of mine.
   
   Jun. 2021 – Sept. 2021
   
-  This research project is supported by Keynes Fund, University of Cambridge. My Supervisor is Dr. Girish Bahal (The University of Western Australia) and there are also two co-supervisors: Dr. Sriya Iyer (Cambridge University) and Dr. Anand Shrivastava (Azim Premji University).
+  Supervisor: Dr. Girish Bahal 
 
   Used LaTeX to write a literature review. Focus on how to measure the social capital in the context of economic outcomes. Also investigated the effect of social capital on finding/retaining employment, and on wages.
   
