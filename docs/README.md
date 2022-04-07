@@ -36,22 +36,30 @@ I am currently a second year MA Econ student at Central European University. Bef
 
 - **IESE Business School, University of Navarra** <br/>
 2022 - 2027
+
 PhD in Finance (MRM + PhD)
+
 Barcelona, Spain
 
 - **Central European University** <br/>
 2020 - 2022
+
 MA in Economics
+
 Vienna, Austria
 
 - **Nanyang Technological University** <br/>
 2017 - 2019
+
 MSc in Managerial Economics
+
 Singapore, Singapore
 
 - **Ocean University of China** <br/>
 2013 - 2017
+
 BA in Accounting
+
 Qingdao, China
 
 ## Awards
@@ -78,9 +86,7 @@ Qingdao, China
   Supervisor: Dr. Girish Bahal
 
 </ProjectCard>
-
 <ProjectCard hideBorder=true>
-
   **The effect of private tutoring on academic performance of junior high school students**
 
   Apr. 2021 - Jun. 2021
@@ -90,9 +96,7 @@ Qingdao, China
   Course Instructor: Dr. Sergey Lychagin
 
 </ProjectCard>
-
 <ProjectCard hideBorder=true>
-
   **Development of Folk Custom Tourism: A Study on Qingdao Han Folk Village**
 
   Jun. 2014 – Jun. 2015
