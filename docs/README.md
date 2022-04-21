@@ -62,47 +62,6 @@ Qingdao, China
 - **CEU Master Fellowship** <br/>
 2020 - 2022
 
-## Research
-
-
-[→ Full list](/research/)
-
-<ProjectCard>
-
-  **Religion and Covid-19**
-
-  Jun. 2021 – Sept. 2021
-
-  Research Assistant
-
-  Supervisor: Dr. Girish Bahal
-
-</ProjectCard>
-
-<ProjectCard>
-
-  **The effect of private tutoring on academic performance of junior high school students**
-
-  Apr. 2021 - Jun. 2021
-
-  Term paper
-  
-  Course Instructor: Dr. Sergey Lychagin
-
-</ProjectCard>
-
-<ProjectCard>
-
-  **Development of Folk Custom Tourism: A Study on Qingdao Han Folk Village**
-
-  Jun. 2014 – Jun. 2015
-
-  Core Member
-  
-  OUC Student Research and Development Program
-
-</ProjectCard>
-
 ## Additional information
 
 - **Language** <br/>
